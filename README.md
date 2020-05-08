@@ -8,7 +8,7 @@ It generates Monobehaviour Components based on shaders. Controllers are split in
 
 ## Get the package
 
-> + Clone or download the package repository and add it to the "Packages" folder of your Unity project: [https://github.com/SPontadit/ShaderController](https://github.com/SPontadit/ShaderController)
+> + Clone or download this repository and add it to the "Packages" folder of your Unity project: [https://github.com/SPontadit/ShaderController](https://github.com/SPontadit/ShaderController)
 
 > + Add the package from the Package Manager with the git repository URL: [https://github.com/SPontadit/ShaderController.git](https://github.com/SPontadit/ShaderController.git)
 
