@@ -1,0 +1,19 @@
+{
+  "name": "com.spontadit.example",
+  "version": "1.0.0",
+  "displayName": "Shader Controller",
+  "description": "Generate Monobehaviour scripts from shader to easily animate properties.",
+  "unity": "2019.3",
+  "unityRelease": "7f1",
+  "keywords": [
+    "Post-Process",
+    "Shader",
+    "Animation"
+  ],
+  "author": {
+    "name": "Stephane Pontadit",
+    "email": "stephane.pontadit@gmail.com",
+    "url": "https://github.com/SPontadit/ShaderController"
+  },
+  "type": "tool"
+}

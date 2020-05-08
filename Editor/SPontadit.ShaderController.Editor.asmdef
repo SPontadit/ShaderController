@@ -1,0 +1,17 @@
+{
+    "name": "SPontadit.ShaderController.Editor.asmdef",
+    "references": [
+        "GUID:6952ceb967a76a24da8f78fafa0e0e56"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
